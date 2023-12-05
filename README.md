@@ -18,10 +18,10 @@ Each folder or Python file within this repository represents a specific exercise
 
 ## Folder Structure
 ### All-About-Loops
-* For_and_While_Loops.ipynb: Notebook file containing examples and exercises related to for and while loops.
+* For_and_While_Loops_Pratice.ipynb: Notebook file containing examples and exercises related to for and while loops.
 
 ### Others
-* Test_Practice.py: A standalone Python test program.
+* Test_Program_Python.py: A standalone Python test program.
 
 
 ## About Me
