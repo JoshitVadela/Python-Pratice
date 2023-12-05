@@ -16,6 +16,14 @@ Inside this repository, you'll discover various Python scripts, exercises, and p
 ## How to Navigate
 Each folder or Python file within this repository represents a specific exercise, project, or concept. You can explore them to understand the code and its functionality. Additionally, I aim to provide concise descriptions in each folder to explain the purpose and use of the code.
 
+## Folder Structure
+### All-About-Loops
+* For_and_While_Loops.ipynb: Notebook file containing examples and exercises related to for and while loops.
+
+### Others
+* Test_Practice.py: A standalone Python test program.
+
+
 ## About Me
 I'm a Grade 9 student enthusiastic about technology, programming, and the possibilities that AI brings. Always eager to learn, collaborate, and explore the ever-evolving world of computer science!
 
